@@ -1,7 +1,7 @@
 # Stata_sandbox
 # Stata Snippets and Scripts
 
-This repository contains a collection of miscellaneous Stata (.do) files for mapping.  These scripts are primarily for my personal use, learning, and experimentation with Stata, and are shared as a resource for others who might find them helpful or want to see examples of different Stata techniques. Use at your own risk!
+This repository contains a collection of miscellaneous Stata (.do) files for mapping and other things.  These scripts are primarily for my personal use, learning, and experimentation with Stata, and are shared as a resource for others who might find them helpful or want to see examples of different Stata techniques. Use at your own risk!
 
 ## Description
 
