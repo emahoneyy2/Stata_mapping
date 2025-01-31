@@ -9,7 +9,7 @@ This repo serves as a central location for Stata code snippets, scripts, and sma
 
 ## Contents
 
-The repository is organized into folders (where appropriate) to group related scripts.  However, many scripts may be directly in the main directory.  Here's a general overview:
+The repository is organized into folders (where appropriate) to group related scripts.  However, some scripts may be directly in the main directory.  Here's a general overview:
 
 * **FL_county_maps: Contains scripts related to mapping the change in the volume of foreign investment in Florida real estate over time by county.
 * **README.md: This file.
